@@ -1,6 +1,6 @@
 # FlowCart — End-to-End E-Commerce Data Engineering Pipeline
 
-FlowCart is an end-to-end data engineering project that simulates how e-commerce order data can move from raw source files through validation, incremental processing, cloud orchestration, distributed transformation, and analytics-ready modeling.
+FlowCart is an e-commerce data engineering project I built to practice an end-to-end data pipeline using tools I wanted to gain practical experience with. I started with deliberately messy order, customer, and product data, built the cleaning and incremental processing logic in Python, loaded the data into PostgreSQL, and then extended the pipeline into Azure, Databricks, and dbt.
 
 The project was built to practice the complete lifecycle of a modern data pipeline rather than focusing on a single tool.
 
