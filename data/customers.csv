@@ -1,0 +1,502 @@
+customer_id,customer_name,city,segment,signup_date
+1,Customer 1,Leipzig,Consumer,2025-01-26
+2,Customer 2,Leipzig,Small Business,2025-09-08
+3,Customer 3,Hamburg,Consumer,2025-04-15
+4,Customer 4,Leipzig,Corporate,2025-03-31
+5,Customer 5,Frankfurt,Small Business,2025-02-02
+6,Customer 6,Berlin,Consumer,2025-08-12
+7,Customer 7,Hamburg,Corporate,2025-01-28
+8,Customer 8,Frankfurt,Consumer,2026-03-06
+9,Customer 9,Hamburg,Small Business,2025-10-12
+10,Customer 10,Dresden,Consumer,2025-06-13
+11,Customer 11,Leipzig,Small Business,2025-12-15
+12,Customer 12,Munich,Consumer,2025-08-09
+13,Customer 13,,Small Business,2025-04-15
+14,Customer 14,Berlin,Small Business,2025-04-10
+15,Customer 15,Munich,Small Business,2025-09-28
+16,Customer 16,Dresden,Consumer,2026-04-16
+17,Customer 17,Frankfurt,Consumer,2026-01-23
+18,Customer 18,Berlin,Corporate,2025-10-28
+19,Customer 19,Dresden,Corporate,2026-01-06
+20,Customer 20,Frankfurt,Consumer,2025-03-13
+21,Customer 21,Berlin,Corporate,2025-08-22
+22,Customer 22,Dresden,Small Business,2025-03-23
+23,Customer 23,Dresden,Consumer,2025-04-14
+24,Customer 24,Cologne,Small Business,2026-04-10
+25,Customer 25,Leipzig,Small Business,2025-06-16
+26,Customer 26,Munich,Small Business,2025-08-03
+27,Customer 27,Leipzig,Small Business,2025-03-15
+28,Customer 28,Frankfurt,Corporate,2025-06-25
+29,Customer 29,Frankfurt,Corporate,2025-09-08
+30,Customer 30,Hamburg,Small Business,2026-01-24
+31,Customer 31,Munich,Corporate,2025-08-13
+32,Customer 32,Leipzig,Small Business,2025-02-27
+33,Customer 33,Hamburg,Consumer,2025-11-20
+34,Customer 34,Cologne,Small Business,2025-03-09
+35,Customer 35,Hamburg,Corporate,2025-11-19
+36,Customer 36,Hamburg,Corporate,2026-05-27
+37,Customer 37,Cologne,Corporate,2026-04-15
+38,Customer 38,Hamburg,Small Business,2025-05-23
+39,Customer 39,Hamburg,Corporate,2025-09-27
+40,Customer 40,Leipzig,Corporate,2026-03-15
+41,Customer 41,Frankfurt,Small Business,2026-01-06
+42,Customer 42,Hamburg,Consumer,2026-06-06
+43,Customer 43,Cologne,Consumer,2025-02-18
+44,Customer 44,Dresden,Consumer,2025-06-06
+45,Customer 45,Leipzig,Consumer,2026-03-09
+46,Customer 46,Frankfurt,Consumer,2026-01-30
+47,Customer 47,Cologne,Corporate,2026-04-25
+48,Customer 48,Frankfurt,Small Business,2025-01-12
+49,Customer 49,Leipzig,Corporate,2025-04-28
+50,Customer 50,Leipzig,Corporate,2025-10-01
+51,Customer 51,Dresden,Corporate,2025-12-15
+52,Customer 52,Berlin,Small Business,2026-03-22
+53,Customer 53,Hamburg,Small Business,2025-01-04
+54,Customer 54,Leipzig,Corporate,2025-09-27
+55,Customer 55,Frankfurt,Consumer,2026-06-04
+56,Customer 56,Berlin,Corporate,2025-11-02
+57,Customer 57,Dresden,Corporate,2026-06-04
+58,Customer 58,Frankfurt,Consumer,2025-06-06
+59,Customer 59,Munich,Consumer,2026-06-28
+60,Customer 60,Berlin,Corporate,2025-11-28
+61,Customer 61,Cologne,Consumer,2025-04-25
+62,Customer 62,Munich,Small Business,2025-09-03
+63,Customer 63,Berlin,Consumer,2025-03-22
+64,Customer 64,Berlin,Corporate,2026-05-13
+65,Customer 65,Dresden,Consumer,2026-06-30
+66,Customer 66,Dresden,Consumer,2025-05-12
+67,Customer 67,Leipzig,Small Business,2025-06-19
+68,Customer 68,Munich,Corporate,2026-03-10
+69,Customer 69,Hamburg,Corporate,2025-07-25
+70,Customer 70,Leipzig,Small Business,2026-02-13
+71,Customer 71,Leipzig,Corporate,2026-01-18
+72,Customer 72,Cologne,Corporate,2026-04-08
+73,Customer 73,Berlin,Consumer,2025-08-19
+74,Customer 74,Berlin,Small Business,2025-01-22
+75,Customer 75,Frankfurt,Corporate,2025-08-24
+76,Customer 76,Frankfurt,Consumer,2025-01-08
+77,Customer 77,Berlin,Corporate,2025-03-02
+78,Customer 78,Hamburg,Consumer,2025-02-02
+79,Customer 79,Dresden,Small Business,2025-03-14
+80,Customer 80,Frankfurt,Consumer,2025-10-13
+81,Customer 81,Leipzig,Small Business,2025-08-08
+82,Customer 82,Frankfurt,Consumer,2026-04-30
+83,Customer 83,Hamburg,Small Business,2026-02-21
+84,Customer 84,Hamburg,Consumer,2025-04-10
+85,Customer 85,Leipzig,Small Business,2025-12-29
+86,Customer 86,Cologne,Small Business,2026-04-24
+87,Customer 87,Dresden,Corporate,2025-02-25
+88,Customer 88,Leipzig,Corporate,2025-04-11
+89,Customer 89,Berlin,,2025-12-14
+90,Customer 90,Dresden,Consumer,2025-09-12
+91,Customer 91,Hamburg,Consumer,2026-07-04
+92,Customer 92,Cologne,Consumer,2026-03-09
+93,Customer 93,Hamburg,Small Business,2026-04-19
+94,Customer 94,Hamburg,Consumer,2026-03-30
+95,Customer 95,Dresden,Corporate,2025-04-11
+96,Customer 96,Berlin,Corporate,2025-01-16
+97,Customer 97,Berlin,Consumer,2025-06-20
+98,Customer 98,Cologne,Small Business,2026-05-08
+99,Customer 99,Hamburg,Small Business,2025-03-02
+100,Customer 100,Hamburg,Small Business,2025-01-03
+101,Customer 101,Cologne,Small Business,2026-04-11
+102,Customer 102,Munich,Small Business,2026-05-14
+103,Customer 103,Hamburg,Consumer,2025-10-31
+104,Customer 104,Hamburg,Consumer,2025-03-04
+105,Customer 105,Leipzig,Small Business,2025-02-28
+106,Customer 106,Berlin,Corporate,2026-05-04
+107,Customer 107,Frankfurt,Corporate,2025-06-11
+108,Customer 108,Berlin,Corporate,2025-03-24
+109,Customer 109,Dresden,Consumer,2025-03-12
+110,Customer 110,Frankfurt,Consumer,2025-08-29
+111,Customer 111,Cologne,Consumer,2025-09-10
+112,Customer 112,Frankfurt,Corporate,2025-02-10
+113,Customer 113,Frankfurt,Consumer,2026-03-06
+114,Customer 114,Leipzig,Corporate,2026-06-20
+115,Customer 115,Munich,Small Business,2025-07-29
+116,Customer 116,Leipzig,Corporate,2025-11-18
+117,Customer 117,Hamburg,Small Business,2026-02-10
+118,Customer 118,Hamburg,Corporate,2025-11-04
+119,Customer 119,Cologne,Small Business,2025-03-16
+120,Customer 120,Berlin,Small Business,2025-04-13
+121,Customer 121,Berlin,Corporate,2025-08-07
+122,Customer 122,Frankfurt,Small Business,2025-05-16
+123,Customer 123,Munich,Consumer,2025-09-08
+124,Customer 124,Munich,Small Business,2025-06-11
+125,Customer 125,Cologne,Corporate,2025-11-06
+126,Customer 126,Frankfurt,Corporate,2026-06-26
+127,Customer 127,Berlin,Corporate,2025-11-03
+128,Customer 128,Leipzig,Consumer,2025-05-18
+129,Customer 129,Munich,Consumer,2025-04-20
+130,Customer 130,Leipzig,Corporate,2025-06-09
+131,Customer 131,Munich,Small Business,2025-08-04
+132,Customer 132,Leipzig,Small Business,2025-07-28
+133,Customer 133,Leipzig,Corporate,2025-09-28
+134,Customer 134,Frankfurt,Small Business,2025-09-15
+135,Customer 135,Dresden,Consumer,2025-04-05
+136,Customer 136,Leipzig,Small Business,2025-10-11
+137,Customer 137,Berlin,Consumer,2025-12-08
+138,Customer 138,Dresden,Consumer,2025-09-26
+139,Customer 139,Hamburg,Corporate,2026-03-29
+140,Customer 140,Frankfurt,Corporate,2026-03-14
+141,Customer 141,Frankfurt,Consumer,2025-04-25
+142,Customer 142,Berlin,Corporate,2025-06-02
+143,Customer 143,Frankfurt,Consumer,2026-01-14
+144,Customer 144,Frankfurt,Corporate,2025-06-01
+145,Customer 145,Cologne,Consumer,2025-02-12
+146,Customer 146,Munich,Small Business,2025-02-10
+147,Customer 147,Munich,Consumer,2025-09-13
+148,Customer 148,Leipzig,Consumer,2025-12-29
+149,Customer 149,Dresden,Corporate,2026-02-21
+150,Customer 150,Frankfurt,Corporate,2025-06-08
+151,Customer 151,Hamburg,Consumer,2025-07-01
+152,Customer 152,Cologne,Consumer,2025-07-03
+153,Customer 153,Leipzig,Small Business,2026-02-26
+154,Customer 154,Dresden,Corporate,2025-09-12
+155,Customer 155,Munich,Consumer,2025-04-21
+156,Customer 156,Cologne,Consumer,2026-04-27
+157,Customer 157,Hamburg,Consumer,2026-04-17
+158,Customer 158,Munich,Small Business,2025-08-22
+159,Customer 159,Hamburg,Consumer,2025-07-17
+160,Customer 160,Cologne,Small Business,2025-10-13
+161,Customer 161,Dresden,Consumer,2025-10-13
+162,Customer 162,Munich,Corporate,2026-06-06
+163,Customer 163,Cologne,Corporate,2026-07-04
+164,Customer 164,Munich,Consumer,2025-04-29
+165,Customer 165,Munich,Consumer,2025-09-29
+166,Customer 166,Berlin,Consumer,2026-03-21
+167,Customer 167,Munich,Corporate,2025-11-18
+168,Customer 168,Cologne,Corporate,2026-06-08
+169,Customer 169,Berlin,Small Business,2025-07-14
+170,Customer 170,Munich,Consumer,2026-03-23
+171,Customer 171,Berlin,Corporate,2025-07-21
+172,Customer 172,Munich,Small Business,2025-03-13
+173,Customer 173,Leipzig,Small Business,2025-11-18
+174,Customer 174,Leipzig,Consumer,2025-11-04
+175,Customer 175,Frankfurt,Small Business,2026-02-23
+176,Customer 176,Munich,Small Business,2025-10-30
+177,Customer 177,Frankfurt,Consumer,2025-07-16
+178,Customer 178,Cologne,Corporate,2026-01-24
+179,Customer 179,Leipzig,Corporate,2025-06-28
+180,Customer 180,Frankfurt,Corporate,2025-11-05
+181,Customer 181,Cologne,Corporate,2025-01-01
+182,Customer 182,Munich,Small Business,2025-08-04
+183,Customer 183,Cologne,Corporate,2025-11-26
+184,Customer 184,Cologne,Small Business,2026-03-29
+185,Customer 185,Leipzig,Consumer,2026-06-08
+186,Customer 186,Cologne,Corporate,2025-06-23
+187,Customer 187,Leipzig,Consumer,2025-10-18
+188,Customer 188,Frankfurt,Corporate,2025-12-10
+189,Customer 189,Berlin,Consumer,2025-11-14
+190,Customer 190,Hamburg,Consumer,2025-05-31
+191,Customer 191,Berlin,Consumer,2025-09-08
+192,Customer 192,Cologne,Corporate,2025-03-16
+193,Customer 193,Cologne,Small Business,2025-07-19
+194,Customer 194,Leipzig,Corporate,2026-01-29
+195,Customer 195,Cologne,Small Business,2025-09-07
+196,Customer 196,Hamburg,Corporate,2025-01-06
+197,Customer 197,Dresden,Consumer,2026-03-12
+198,Customer 198,Hamburg,Consumer,2026-06-15
+199,Customer 199,Cologne,Consumer,2025-09-13
+200,Customer 200,Dresden,Consumer,2026-04-13
+201,Customer 201,Hamburg,Small Business,2026-06-28
+202,Customer 202,Frankfurt,Corporate,2025-11-21
+203,Customer 203,Dresden,Small Business,2026-06-01
+204,Customer 204,Cologne,Corporate,2026-04-02
+205,Customer 205,Hamburg,Corporate,2026-05-02
+206,Customer 206,Cologne,Small Business,2025-09-11
+207,Customer 207,Dresden,Corporate,2025-10-11
+208,Customer 208,Dresden,Corporate,2026-05-12
+209,Customer 209,Leipzig,Consumer,2025-10-09
+210,Customer 210,Cologne,Consumer,2025-10-20
+211,Customer 211,Hamburg,Small Business,2025-12-10
+212,Customer 212,Munich,Corporate,2025-03-24
+213,Customer 213,Hamburg,Consumer,2025-08-25
+214,Customer 214,Cologne,Corporate,2025-06-06
+215,Customer 215,Leipzig,Consumer,2025-03-07
+216,Customer 216,Cologne,Small Business,2025-12-05
+217,Customer 217,Frankfurt,Small Business,2026-03-02
+218,Customer 218,Berlin,Consumer,2026-03-07
+219,Customer 219,Cologne,Corporate,2025-01-21
+220,Customer 220,Dresden,Corporate,2026-01-25
+221,Customer 221,Cologne,Consumer,2025-12-27
+222,Customer 222,Munich,Small Business,2026-03-06
+223,Customer 223,Frankfurt,Corporate,2025-08-14
+224,Customer 224,Cologne,Consumer,2025-10-07
+225,Customer 225,Cologne,Small Business,2025-01-30
+226,Customer 226,Cologne,Small Business,2026-02-19
+227,Customer 227,Leipzig,Consumer,2026-04-24
+228,Customer 228,Hamburg,Corporate,2026-07-01
+229,Customer 229,Berlin,Small Business,2025-01-28
+230,Customer 230,Berlin,Corporate,2026-03-15
+231,Customer 231,Hamburg,Small Business,2025-07-06
+232,Customer 232,Berlin,Small Business,2026-01-24
+233,Customer 233,Munich,Consumer,2026-04-11
+234,Customer 234,Munich,Small Business,2026-01-24
+235,Customer 235,Munich,Small Business,2025-09-16
+236,Customer 236,Dresden,Consumer,2026-04-27
+237,Customer 237,Berlin,Corporate,2025-02-23
+238,Customer 238,Munich,Consumer,2025-03-12
+239,Customer 239,Dresden,Corporate,2025-02-11
+240,Customer 240,Dresden,Consumer,2025-09-11
+241,Customer 241,Hamburg,Consumer,2025-06-06
+242,Customer 242,Hamburg,Consumer,2026-04-30
+243,Customer 243,Leipzig,Consumer,2025-08-12
+244,Customer 244,Cologne,Corporate,2025-09-20
+245,Customer 245,Dresden,Small Business,2025-06-21
+246,Customer 246,Frankfurt,Corporate,2025-04-28
+247,Customer 247,Dresden,Consumer,2025-11-15
+248,Customer 248,Berlin,Corporate,2025-01-27
+249,Customer 249,Munich,Corporate,2026-01-20
+250,Customer 250,Cologne,Corporate,2025-07-23
+251,Customer 251,Berlin,Corporate,2025-09-06
+252,Customer 252,Berlin,Corporate,2025-11-05
+253,Customer 253,Dresden,Corporate,2025-05-04
+254,Customer 254,Dresden,Corporate,2025-02-12
+255,Customer 255,Munich,Corporate,2026-03-15
+256,Customer 256,Leipzig,Small Business,2025-03-12
+257,Customer 257,Frankfurt,Corporate,2025-12-16
+258,Customer 258,Berlin,Small Business,2026-05-17
+259,Customer 259,Berlin,Small Business,2026-01-06
+260,Customer 260,Leipzig,Small Business,2025-06-06
+261,Customer 261,Cologne,Consumer,2026-06-19
+262,Customer 262,Leipzig,Small Business,2026-05-11
+263,Customer 263,Cologne,Small Business,2025-10-02
+264,Customer 264,Munich,Consumer,2025-03-30
+265,Customer 265,Munich,Small Business,2025-09-07
+266,Customer 266,Dresden,Small Business,2026-01-24
+267,Customer 267,Munich,Consumer,2026-05-22
+268,Customer 268,Dresden,Small Business,2025-07-06
+269,Customer 269,Cologne,Consumer,2025-12-30
+270,Customer 270,Dresden,Small Business,2025-12-15
+271,Customer 271,Munich,Corporate,2025-10-10
+272,Customer 272,Frankfurt,Consumer,2026-06-14
+273,Customer 273,Hamburg,Consumer,2025-09-05
+274,Customer 274,Leipzig,Small Business,2026-05-16
+275,Customer 275,Frankfurt,Consumer,2026-05-03
+276,Customer 276,Leipzig,Corporate,2026-05-18
+277,Customer 277,Cologne,Consumer,2025-04-06
+278,Customer 278,Munich,Consumer,2026-02-19
+279,Customer 279,Leipzig,Consumer,2025-11-10
+280,Customer 280,Leipzig,Corporate,2026-01-13
+281,Customer 281,Cologne,Corporate,2026-06-28
+282,Customer 282,Munich,Small Business,2025-12-05
+283,Customer 283,Munich,Corporate,2026-04-10
+284,Customer 284,Munich,Small Business,2025-09-15
+285,Customer 285,Hamburg,Consumer,2025-07-17
+286,Customer 286,Munich,Consumer,2026-07-03
+287,Customer 287,Dresden,Corporate,2025-07-09
+288,Customer 288,Hamburg,Consumer,2026-05-11
+289,Customer 289,Munich,Corporate,2026-06-22
+290,Customer 290,Frankfurt,Small Business,2025-04-13
+291,Customer 291,Dresden,Consumer,2025-10-31
+292,Customer 292,Hamburg,Small Business,2025-07-03
+293,Customer 293,Munich,Consumer,2026-07-01
+294,Customer 294,Hamburg,Small Business,2025-02-16
+295,Customer 295,Berlin,Corporate,2025-10-27
+296,Customer 296,Leipzig,Consumer,2026-05-18
+297,Customer 297,Berlin,Consumer,2025-10-19
+298,Customer 298,Cologne,Small Business,2026-03-28
+299,Customer 299,Munich,Consumer,2025-02-22
+300,Customer 300,Munich,Small Business,2025-04-27
+301,Customer 301,Dresden,Consumer,2026-02-15
+302,Customer 302,Cologne,Consumer,2025-02-24
+303,Customer 303,Hamburg,Consumer,2025-11-08
+304,Customer 304,Berlin,Consumer,2025-05-02
+305,Customer 305,Frankfurt,Small Business,2025-08-20
+306,Customer 306,Dresden,Corporate,2026-01-25
+307,Customer 307,Cologne,Small Business,2025-11-01
+308,Customer 308,Dresden,Corporate,2026-03-16
+309,Customer 309,Munich,Corporate,2025-03-03
+310,Customer 310,Frankfurt,Corporate,2025-04-12
+311,Customer 311,Dresden,Consumer,2025-08-05
+312,Customer 312,Munich,Corporate,2025-03-25
+313,Customer 313,Hamburg,Consumer,2025-06-27
+314,Customer 314,Frankfurt,Consumer,2025-06-10
+315,Customer 315,Berlin,Small Business,2026-04-07
+316,Customer 316,Leipzig,Corporate,2026-04-27
+317,Customer 317,Munich,Consumer,2025-08-26
+318,Customer 318,Munich,Corporate,2025-10-17
+319,Customer 319,Leipzig,Small Business,2025-03-14
+320,Customer 320,Leipzig,Consumer,2025-09-28
+321,Customer 321,Dresden,Corporate,2025-07-22
+322,Customer 322,Cologne,Consumer,2025-08-19
+323,Customer 323,Leipzig,Consumer,2025-09-30
+324,Customer 324,Dresden,Consumer,2025-03-15
+325,Customer 325,Berlin,Consumer,2025-11-11
+326,Customer 326,Frankfurt,Corporate,2025-10-23
+327,Customer 327,Cologne,Consumer,2026-04-25
+328,Customer 328,Leipzig,Small Business,2026-02-17
+329,Customer 329,Munich,Corporate,2026-05-21
+330,Customer 330,Cologne,Consumer,2025-02-10
+331,Customer 331,Cologne,Corporate,2025-11-27
+332,Customer 332,Frankfurt,Small Business,2025-01-27
+333,Customer 333,Berlin,Consumer,2025-01-22
+334,Customer 334,Dresden,Corporate,2025-10-03
+335,Customer 335,Frankfurt,Consumer,2025-06-29
+336,Customer 336,Cologne,Corporate,2026-03-29
+337,Customer 337,Munich,Consumer,2026-03-23
+338,Customer 338,Leipzig,Small Business,2025-04-04
+339,Customer 339,Cologne,Small Business,2026-02-23
+340,Customer 340,Munich,Small Business,2025-04-18
+341,Customer 341,Dresden,Consumer,2025-12-04
+342,Customer 342,Cologne,Corporate,2026-05-23
+343,Customer 343,Munich,Corporate,2026-02-15
+344,Customer 344,Dresden,Corporate,2025-02-07
+345,Customer 345,Cologne,Consumer,2025-11-19
+346,Customer 346,Munich,Small Business,2025-04-29
+347,Customer 347,Dresden,Small Business,2026-06-11
+348,Customer 348,Dresden,Consumer,2026-04-19
+349,Customer 349,Cologne,Consumer,2025-07-12
+350,Customer 350,Frankfurt,Small Business,2026-05-26
+351,Customer 351,Leipzig,Small Business,2025-02-22
+352,Customer 352,Hamburg,Small Business,2025-05-15
+353,Customer 353,Munich,Small Business,2026-05-12
+354,Customer 354,Berlin,Consumer,2025-09-03
+355,Customer 355,Leipzig,Consumer,2025-11-15
+356,Customer 356,Frankfurt,Consumer,2026-02-22
+357,Customer 357,Berlin,Consumer,2025-04-27
+358,Customer 358,Cologne,Consumer,2025-06-07
+359,Customer 359,Cologne,Corporate,2025-10-26
+360,Customer 360,Frankfurt,Corporate,2025-10-07
+361,Customer 361,Cologne,Small Business,2026-04-29
+362,Customer 362,Hamburg,Small Business,2025-05-29
+363,Customer 363,Cologne,Consumer,2026-06-05
+364,Customer 364,Leipzig,Consumer,2025-03-13
+365,Customer 365,Munich,Small Business,2025-12-15
+366,Customer 366,Dresden,Corporate,2025-10-01
+367,Customer 367,Dresden,Consumer,2025-10-17
+368,Customer 368,Leipzig,Small Business,2026-05-17
+369,Customer 369,Dresden,Consumer,2026-04-03
+370,Customer 370,Frankfurt,Small Business,2025-12-20
+371,Customer 371,Munich,Corporate,2026-01-22
+372,Customer 372,Cologne,Small Business,2025-07-13
+373,Customer 373,Leipzig,Consumer,2026-01-28
+374,Customer 374,Hamburg,Small Business,2025-02-14
+375,Customer 375,Munich,Corporate,2026-04-30
+376,Customer 376,Leipzig,Small Business,2026-01-31
+377,Customer 377,Leipzig,Corporate,2025-06-05
+378,Customer 378,Cologne,Consumer,2025-05-10
+379,Customer 379,Frankfurt,Corporate,2025-12-06
+380,Customer 380,Dresden,Consumer,2026-03-27
+381,Customer 381,Berlin,Corporate,2026-04-13
+382,Customer 382,Berlin,Corporate,2025-05-28
+383,Customer 383,Cologne,Corporate,2025-06-08
+384,Customer 384,Berlin,Small Business,2025-09-29
+385,Customer 385,Munich,Corporate,2026-02-12
+386,Customer 386,Leipzig,Consumer,2025-12-03
+387,Customer 387,Dresden,Corporate,2026-07-01
+388,Customer 388,Cologne,Small Business,2026-05-15
+389,Customer 389,Dresden,Corporate,2025-02-06
+390,Customer 390,Frankfurt,Consumer,2025-08-29
+391,Customer 391,Leipzig,Corporate,2025-10-22
+392,Customer 392,Hamburg,Corporate,2025-04-03
+393,Customer 393,Cologne,Consumer,2025-04-13
+394,Customer 394,Cologne,Consumer,2025-11-03
+395,Customer 395,Berlin,Consumer,2025-11-29
+396,Customer 396,Dresden,Consumer,2025-10-28
+397,Customer 397,Munich,Small Business,2026-03-18
+398,Customer 398,Hamburg,Consumer,2026-06-28
+399,Customer 399,Cologne,Corporate,2025-07-04
+400,Customer 400,Hamburg,Consumer,2025-03-22
+401,Customer 401,Frankfurt,Small Business,2025-09-04
+402,Customer 402,Cologne,Corporate,2025-05-27
+403,Customer 403,Hamburg,Small Business,2025-09-18
+404,Customer 404,Cologne,Small Business,2025-01-10
+405,Customer 405,Dresden,Small Business,2025-10-22
+406,Customer 406,Leipzig,Corporate,2025-06-11
+407,Customer 407,Berlin,Small Business,2025-12-20
+408,Customer 408,Frankfurt,Small Business,2026-03-11
+409,Customer 409,Leipzig,Small Business,2026-04-13
+410,Customer 410,Dresden,Small Business,2025-07-23
+411,Customer 411,Cologne,Small Business,2025-04-20
+412,Customer 412,Hamburg,Small Business,2026-01-03
+413,Customer 413,Frankfurt,Small Business,2025-10-30
+414,Customer 414,Berlin,Corporate,2026-02-10
+415,Customer 415,Munich,Consumer,2025-02-20
+416,Customer 416,Frankfurt,Corporate,2026-05-24
+417,Customer 417,Dresden,Small Business,2025-08-24
+418,Customer 418,Frankfurt,Small Business,2025-08-13
+419,Customer 419,Leipzig,Consumer,2025-09-14
+420,Customer 420,Leipzig,Corporate,2025-05-21
+421,Customer 421,Leipzig,Consumer,2025-02-10
+422,Customer 422,Munich,Small Business,2025-02-04
+423,Customer 423,Frankfurt,Small Business,2025-05-15
+424,Customer 424,Berlin,Small Business,2025-12-01
+425,Customer 425,Leipzig,Small Business,2025-06-29
+426,Customer 426,Hamburg,Consumer,2026-01-10
+427,Customer 427,Frankfurt,Corporate,2025-10-07
+428,Customer 428,Dresden,Consumer,2025-09-21
+429,Customer 429,Dresden,Small Business,2025-10-30
+430,Customer 430,Leipzig,Small Business,2025-04-28
+431,Customer 431,Cologne,Consumer,2025-05-25
+432,Customer 432,Dresden,Consumer,2026-02-11
+433,Customer 433,Dresden,Corporate,2026-01-10
+434,Customer 434,Berlin,Small Business,2025-01-15
+435,Customer 435,Munich,Corporate,2025-05-07
+436,Customer 436,Cologne,Small Business,2025-09-26
+437,Customer 437,Frankfurt,Small Business,2026-01-16
+438,Customer 438,Berlin,Corporate,2025-08-28
+439,Customer 439,Cologne,Consumer,2025-12-02
+440,Customer 440,Frankfurt,Consumer,2025-03-06
+441,Customer 441,Leipzig,Small Business,2025-11-06
+442,Customer 442,Leipzig,Small Business,2025-04-30
+443,Customer 443,Hamburg,Consumer,2025-02-08
+444,Customer 444,Munich,Small Business,2025-04-29
+445,Customer 445,Berlin,Consumer,2026-07-05
+446,Customer 446,Hamburg,Small Business,2026-04-10
+447,Customer 447,Munich,Corporate,2026-03-06
+448,Customer 448,Frankfurt,Corporate,2025-06-08
+449,Customer 449,Cologne,Corporate,2025-04-12
+450,Customer 450,Dresden,Small Business,2026-02-22
+451,Customer 451,Munich,Consumer,2026-01-15
+452,Customer 452,Hamburg,Small Business,2026-04-01
+453,Customer 453,Hamburg,Small Business,2025-04-12
+454,Customer 454,Leipzig,Small Business,2026-01-03
+455,Customer 455,Berlin,Small Business,2025-10-10
+456,Customer 456,Hamburg,Consumer,2026-04-11
+457,Customer 457,Berlin,Corporate,2025-08-06
+458,Customer 458,Leipzig,Corporate,2025-01-22
+459,Customer 459,Berlin,Small Business,2025-09-07
+460,Customer 460,Hamburg,Corporate,2025-07-30
+461,Customer 461,Berlin,Corporate,2025-08-01
+462,Customer 462,Frankfurt,Consumer,2025-08-27
+463,Customer 463,Munich,Consumer,2025-01-03
+464,Customer 464,Munich,Consumer,2025-05-14
+465,Customer 465,Frankfurt,Small Business,2025-06-28
+466,Customer 466,Berlin,Corporate,2025-01-27
+467,Customer 467,Hamburg,Consumer,2026-01-02
+468,Customer 468,Dresden,Consumer,2025-11-28
+469,Customer 469,Berlin,Consumer,2025-09-29
+470,Customer 470,Berlin,Consumer,2026-03-08
+471,Customer 471,Frankfurt,Consumer,2025-03-07
+472,Customer 472,Cologne,Small Business,2026-01-06
+473,Customer 473,Frankfurt,Corporate,2025-04-22
+474,Customer 474,Cologne,Corporate,2025-08-15
+475,Customer 475,Frankfurt,Consumer,2026-06-18
+476,Customer 476,Munich,Small Business,2025-02-01
+477,Customer 477,Berlin,Small Business,2026-02-16
+478,Customer 478,Cologne,Corporate,2025-04-21
+479,Customer 479,Cologne,Corporate,2026-03-31
+480,Customer 480,Berlin,Consumer,2025-11-26
+481,Customer 481,Frankfurt,Consumer,2025-03-09
+482,Customer 482,Hamburg,Small Business,2025-11-29
+483,Customer 483,Cologne,Corporate,2026-06-28
+484,Customer 484,Munich,Small Business,2026-06-02
+485,Customer 485,Frankfurt,Small Business,2025-04-12
+486,Customer 486,Dresden,Corporate,2025-04-28
+487,Customer 487,Dresden,Corporate,2025-08-09
+488,Customer 488,Cologne,Small Business,2025-08-22
+489,Customer 489,Cologne,Small Business,2026-04-10
+490,Customer 490,Cologne,Small Business,2025-04-08
+491,Customer 491,Munich,Small Business,2025-11-17
+492,Customer 492,Leipzig,Small Business,2026-01-19
+493,Customer 493,Hamburg,Corporate,2026-05-01
+494,Customer 494,Berlin,Consumer,2025-03-29
+495,Customer 495,Berlin,Small Business,2025-04-09
+496,Customer 496,Leipzig,Corporate,2026-01-17
+497,Customer 497,Dresden,Consumer,2025-03-03
+498,Customer 498,Frankfurt,Corporate,2025-12-04
+499,Customer 499,Leipzig,Consumer,2026-02-25
+500,Customer 500,Munich,Corporate,2026-03-10
+21,Customer 21,Berlin,Corporate,2025-08-22
