@@ -7,3 +7,4 @@ logs/
 logs/
 flowcart_dbt/target/
 flowcart_dbt/logs/
+.DS_Store
